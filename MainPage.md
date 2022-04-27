@@ -3,7 +3,7 @@ Spider solitaire is a popular card game often played on computers online or offl
 
 # Table Of Contents
 
-- What do I need?                             
+- [What do I need?](/WhatDoINeed.md)                             
 
 - Installation
 
