@@ -1,7 +1,7 @@
 # How to Play Microsoft Spider Solitaire
 - The Object of the Game: The goal is to assemble 13 cards of a suit, in ascending sequence from ace through king, on top of a pile. Whenever a full suit of 13 cards is so assembled, it is lifted off and discarded from the game. The game is won if all eight suits are played out.
 
-- Opening the Game:
+- Opening the Game: Using the search bar at the bottom of your screen, search "spider solitaire", and the game should be the first result. When you click on the application, it will immediately load a new game for you to start playing. You can also click "Games" if you prefer a different kind of solitaire game or want a different difficulty. 
 
 - Basic Rules: Notice that ten piles of five cards each are dealt by rows. The first four cards of each pile are dealt face down, the top cards face up. The top card of a pile may be moved, together with all face-up cards below it that follow in ascending suit and sequence. 
 
